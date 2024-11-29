@@ -1,0 +1,4 @@
+javac ChatClient.java ChatServer.java
+java ChatServer
+java ChatClient karthi localhost 12345
+java ChatClient {name} localhost 12345
