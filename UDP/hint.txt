@@ -1,0 +1,3 @@
+java ChatServer
+java ChatClient name1 localhost
+java ChatClient name2 localhost
