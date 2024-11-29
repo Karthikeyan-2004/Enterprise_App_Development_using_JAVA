@@ -1,0 +1,5 @@
+com\example\UserManager.class
+com\mycompany\entitybeanexample\resources\JakartaEE10Resource.class
+com\example\UserServlet.class
+com\example\entities\UserEntity.class
+com\mycompany\entitybeanexample\JakartaRestConfiguration.class
