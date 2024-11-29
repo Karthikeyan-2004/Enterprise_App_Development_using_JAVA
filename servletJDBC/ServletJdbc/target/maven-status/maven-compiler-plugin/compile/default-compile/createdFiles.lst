@@ -1,0 +1,5 @@
+com\mycompany\servletjdbc\JakartaRestConfiguration.class
+com\example\servlets\LoginServlet.class
+com\example\models\User.class
+com\example\util\DBConnection.class
+com\mycompany\servletjdbc\resources\JakartaEE10Resource.class
